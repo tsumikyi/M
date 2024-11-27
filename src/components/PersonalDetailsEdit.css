@@ -1,0 +1,10 @@
+.personal-details-edit {
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+}

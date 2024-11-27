@@ -1,0 +1,8 @@
+.settings {
+    text-align: center;
+}
+
+.settings.dark {
+    background-color: #333;
+    color: white;
+}
